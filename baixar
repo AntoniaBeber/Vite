@@ -1,0 +1,50 @@
+
+Técnico - TI@PC-301-01 MINGW64 ~/Documents/Antonis/Nova pasta
+$ npm create vite@latest
+Need to install the following packages:
+  create-vite@5.2.3
+Ok to proceed? (y) y
+√ Project name: ... Vite_antonia
+√ Package name: ... vite-antonia
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\Users\Técnico - TI\Documents\Antonis\Nova pasta\Vite_antonia...
+
+Done. Now run:
+
+  cd Vite_antonia
+  npm install
+  npm run dev
+
+npm notice
+npm notice New major version of npm available! 9.4.0 -> 10.5.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.5.2
+npm notice Run npm install -g npm@10.5.2 to update!
+npm notice
+
+Técnico - TI@PC-301-01 MINGW64 ~/Documents/Antonis/Nova pasta
+$ cd Vite_antonia
+
+Técnico - TI@PC-301-01 MINGW64 ~/Documents/Antonis/Nova pasta/Vite_antonia
+$ npm i
+
+added 278 packages, and audited 279 packages in 24s
+
+103 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Técnico - TI@PC-301-01 MINGW64 ~/Documents/Antonis/Nova pasta/Vite_antonia
+$ npm run dev
+
+> vite-antonia@0.0.0 dev
+> vite
+
+
+  VITE v5.2.8  ready in 230 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
